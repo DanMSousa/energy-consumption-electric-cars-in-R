@@ -5,4 +5,4 @@ electrical motors based on several factors, such as the type and number of elect
 vehicle, vehicle weight, load capacity, among other attributes.</p>
 
 <br /><br />
-<a link="https://www.datascienceacademy.com.br/course/analise-de-dados-com-r" target="_blank"> Course - Big Data Analytics with R and Microsoft Azure Machine Learning</a>
+<a href="https://www.datascienceacademy.com.br/course/analise-de-dados-com-r" target="_blank"> Course - Big Data Analytics with R and Microsoft Azure Machine Learning</a>
