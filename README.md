@@ -4,5 +4,7 @@
 electrical motors based on several factors, such as the type and number of electric motors in the
 vehicle, vehicle weight, load capacity, among other attributes.</p>
 
+<p>The file of the resolution is: MainProject.R</p>
+
 <br /><br />
 <a href="https://www.datascienceacademy.com.br/course/analise-de-dados-com-r" target="_blank"> Course - Big Data Analytics with R and Microsoft Azure Machine Learning</a>
